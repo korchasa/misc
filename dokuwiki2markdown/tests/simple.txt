@@ -1,0 +1,8 @@
+two
+lines
+<code>
+<?php
+  $a = 'foo';
+</code>
+
+one <code> $b = 'foo'; <code> line
